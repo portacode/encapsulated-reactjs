@@ -9,6 +9,7 @@ function App() {
         <p>
           ReactJS app encapsulate in a Docker container
         </p>
+        <p>Version: 0.0.0.1</p>
       </header>
     </div>
   );
